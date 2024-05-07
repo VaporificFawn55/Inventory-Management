@@ -1,15 +1,3 @@
-// Jayden Sastradi
-// p5x.cpp
-// Purpose : This program is a inventory checking software where the user
-// inputs a file to be read in order to print out one of two files. The
-// first file is an overview of all the parts that are available while
-// displaying the different parts available and the total value of all the
-//parts.
-// The second part of the program is another report which shows the user
-// the items that need to be restocked because the amount of the items is less
-// than the minimum quantity, the total amount of items needed to be purchased
-// and the total price of the items.
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
