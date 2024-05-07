@@ -1,6 +1,5 @@
 AC_Motor GE 10 10 5
 Amplifier GE 50 50 1.34
-Bob Joe 1 0 0
 Capacitor Ohmite 72 90 0.73
 Chassis Westinghouse 60 100 30
 Connector Ohmite 150 500 0.05
